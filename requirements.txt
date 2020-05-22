@@ -32,22 +32,6 @@ itsdangerous==0.24
 jedi==0.15.1
 Jinja2==2.10
 lazy-object-proxy==1.4.3
-# Editable Git install with no remote (lesson01==0.0.post0.dev1+g1e50b92)
--e c:\users\koryk\desktop\python220\lesson01\src
-# Editable Git install with no remote (Lesson02==0.0.post0.dev1+g08f8622)
--e c:\users\koryk\desktop\python220\lesson02\src
-# Editable Git install with no remote (Lesson03==0.0.post0.dev1+gecd7f12)
--e c:\users\koryk\desktop\python220\lesson03\src
-# Editable Git install with no remote (Lesson05==0.0.post0.dev1+g3f08c55)
--e c:\users\koryk\desktop\python220\lesson05\src
-# Editable Git install with no remote (Lesson06==0.0.post0.dev1+gd9b5582)
--e c:\users\koryk\desktop\python220\lesson06\src
-# Editable Git install with no remote (Lesson07==0.0.post0.dev1+g13c5e2e)
--e c:\users\koryk\desktop\python220\lesson07\src
-# Editable Git install with no remote (Lesson08==0.0.post0.dev1+gd3a555e)
--e c:\users\koryk\desktop\python220\lesson08\src
-# Editable Git install with no remote (Lesson09==0.0.post0.dev1+gad931e1)
--e c:\users\koryk\desktop\python220\lesson09\src
 loguru==0.4.1
 MarkupSafe==1.0
 mccabe==0.6.1
