@@ -1,7 +1,97 @@
-Django==2.2.12
-pytz==2019.3
-sqlparse==0.3.1
-psycopg2==2.8.4
-gunicorn==20.0.4
-whitenoise==5.1.0
+anaconda==0.0.1.1
+appdirs==1.4.3
+asgiref==3.2.7
+astroid==2.3.3
+atomicwrites==1.3.0
+attrs==19.3.0
+backcall==0.1.0
+beautifulsoup4==4.6.0
+black==19.10b0
+certifi==2018.4.16
+chardet==3.0.4
+click==6.7
+colorama==0.4.1
+coverage==5.0.3
+decorator==4.4.0
+distlib==0.3.0
 dj-database-url==0.5.0
+Django==2.2.12
+ecdsa==0.15
+entrypoints==0.3
+esptool==2.8
+filelock==3.0.12
+flake8==3.7.9
+Flask==1.0.2
+gunicorn==20.0.4
+idna==2.6
+importlib-metadata==0.23
+ipython==7.8.0
+ipython-genutils==0.2.0
+isort==4.3.21
+itsdangerous==0.24
+jedi==0.15.1
+Jinja2==2.10
+lazy-object-proxy==1.4.3
+# Editable Git install with no remote (lesson01==0.0.post0.dev1+g1e50b92)
+-e c:\users\koryk\desktop\python220\lesson01\src
+# Editable Git install with no remote (Lesson02==0.0.post0.dev1+g08f8622)
+-e c:\users\koryk\desktop\python220\lesson02\src
+# Editable Git install with no remote (Lesson03==0.0.post0.dev1+gecd7f12)
+-e c:\users\koryk\desktop\python220\lesson03\src
+# Editable Git install with no remote (Lesson05==0.0.post0.dev1+g3f08c55)
+-e c:\users\koryk\desktop\python220\lesson05\src
+# Editable Git install with no remote (Lesson06==0.0.post0.dev1+gd9b5582)
+-e c:\users\koryk\desktop\python220\lesson06\src
+# Editable Git install with no remote (Lesson07==0.0.post0.dev1+g13c5e2e)
+-e c:\users\koryk\desktop\python220\lesson07\src
+# Editable Git install with no remote (Lesson08==0.0.post0.dev1+gd3a555e)
+-e c:\users\koryk\desktop\python220\lesson08\src
+# Editable Git install with no remote (Lesson09==0.0.post0.dev1+gad931e1)
+-e c:\users\koryk\desktop\python220\lesson09\src
+loguru==0.4.1
+MarkupSafe==1.0
+mccabe==0.6.1
+more-itertools==7.2.0
+packaging==19.2
+parso==0.5.1
+passlib==1.7.2
+pathspec==0.8.0
+pbr==5.4.4
+peewee==3.3.4
+pgsql==1.1
+pickleshare==0.7.5
+pluggy==0.13.1
+prompt-toolkit==2.0.10
+psycopg2==2.8.4
+psycopg2-binary==2.7.4
+py==1.8.0
+py3dns==3.2.1
+pyaes==1.6.1
+pycodestyle==2.5.0
+pyflakes==2.1.1
+Pygments==2.4.2
+pylint==2.4.4
+pymongo==3.10.1
+pyparsing==2.4.5
+PyScaffold==3.2.3
+pyserial==3.4
+pytest==5.3.0
+pytz==2019.3
+regex==2020.5.14
+requests==2.18.4
+six==1.12.0
+sqlparse==0.3.1
+stevedore==1.32.0
+toml==0.10.1
+traitlets==4.3.3
+typed-ast==1.4.0
+urllib3==1.22
+virtualenv==20.0.15
+virtualenv-clone==0.5.4
+virtualenvwrapper==4.8.4
+wcwidth==0.1.7
+Werkzeug==0.14.1
+whitenoise==5.1.0
+win32-setctime==1.0.1
+wrapt==1.11.2
+zipp==0.6.0
