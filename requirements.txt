@@ -79,4 +79,4 @@ whitenoise==5.1.0
 win32-setctime==1.0.1
 wrapt==1.11.2
 zipp==0.6.0
-
+django-allauth==0.41.0

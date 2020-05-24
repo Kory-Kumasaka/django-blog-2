@@ -14,7 +14,7 @@
         {% if user.is_staff %}<li><a href="{% url 'admin:index' %}">admin</a></li>{% endif %}
          <p>Welcome {{ user.username }} !!!</p>
         {% else %}
-         <a href="{% provider_login_url 'github' %}">Sign Up</a>
+         <li><a href="{% url 'login' %}">login</a></li>
         {% endif %}
        </ul>
      </div>              {# header ends here #}
